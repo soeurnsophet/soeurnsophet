@@ -1,9 +1,4 @@
 ## Hi there 👋
-
-A **GitHub profile README** appears on your GitHub profile page when you create a repository with the **same name as your GitHub username**. It usually introduces you, your skills, and your projects.
-
-Here is a **clean and modern README example for a developer** (you can edit it later):
-
 ---
 
 # 👋 Hi, I'm SOEURNSOPOHET
