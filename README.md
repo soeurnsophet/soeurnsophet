@@ -1,8 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SOEURN%20SOPHOET&fontSize=70&description=Full-Stack%20Developer%20|%20Laravel%20|%20React&descSize=20&descAlignVertical=55&fontAlignY=40&fontColor=fff&stroke=fff&animation=fadeIn" width="100%" />
 </p>
-
-# 👋 Hi, I'm SOEURNSOPOHET
+<h1 align="center">
+  <span style="background: -webkit-linear-gradient(left, #007ACC, #06B6D4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    👋 Hi, I'm SOEURN SOPHOET
+  </span>
+</h1>
 ### 💻 Full-Stack Developer | Web Developer | Software Learner
 📍 Based in Cambodia
 
