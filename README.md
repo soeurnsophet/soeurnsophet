@@ -52,8 +52,7 @@ I enjoy building web applications, learning new technologies, and solving progra
 
 ### 📫 Connect With Me
 
-* 🌍 [Portfolio](https://github.com/YOUR_GITHUB_USERNAME)
-* 📧 [Email Me](mailto:your-email@example.com)
+* 📧 [Email Me](soeurnsophet@gmail.com)
 
 ---
 <p align="center">⭐ <i>Thanks for visiting my profile!</i></p>
